@@ -1,0 +1,2 @@
+file:///C:/Program%20Files/Git/ReleaseNotes.html
+https://git-scm.com/download/win
